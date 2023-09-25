@@ -1,2 +1,2 @@
 # twitter_clone
- Clone do twitter feito em phpm usando a arquitetura MVC
+ Clone do twitter feito em PHP, usando a arquitetura MVC
